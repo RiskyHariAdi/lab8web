@@ -328,6 +328,6 @@ header('location: index.php');
 ?>
 ```
 
-![Foto](Foto/Foto12.png)
+![foto](foto/13.png)
 
   
