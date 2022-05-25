@@ -51,7 +51,7 @@ if ($conn == false)
 ```
 
 Lalu buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan koneksi berhasil, uncomment pada perintah echo “koneksi berhasil”;
-![Foto](Foto/Foto6.png)
+![foto](foto/7.png)
 
 ## Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
@@ -113,7 +113,7 @@ $result = mysqli_query($conn, $sql);
 </body>
 </html>
 ```
-![Foto](Foto/Foto7.png)
+![foto](foto/8.png)
 
 ## Menambah Data (Create)
 Buat file baru dengan nama tambah.php
