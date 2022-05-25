@@ -31,7 +31,7 @@ Buat folder lab8_php_database pada root directory web server (/local disk C/xamp
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab8web/
 
-![Foto](Foto/Foto5.1.png)
+![Foto](foto/)
 
 ## Membuat file koneksi database
 Buat file baru dengan nama koneksi.php dan codingnya
