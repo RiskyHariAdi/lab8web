@@ -200,7 +200,7 @@ if (isset($_POST['submit']))
 </body>
 </html>
 ```
-![Foto](Foto/Foto8.png)
+![foto](foto/9.png)
 
 ## Mengubah Data (Update)
 Buat file baru dengan nama ubah.php
