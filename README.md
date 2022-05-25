@@ -306,13 +306,13 @@ if (isset($_POST['submit']))
 </html>
 ```
 Sebelum diubah
-![Foto](Foto/Foto9.png)
+![foto](foto/10.png)
 
 Proses ubah
-![Foto](Foto/Foto10.png)
+![foto](foto/11.png)
 
 Setelah diubah
-![Foto](Foto/Foto11.png)
+![foto](foto/12.png)
 
 ## Menghapus Data (Delete)
 Buat file baru dengan nama hapus.php
